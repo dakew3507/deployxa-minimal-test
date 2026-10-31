@@ -1,0 +1,1 @@
+{"description":"Minimal runnable test app for Deployxa free plan verification","engines":{"node":">=18"},"main":"server.js","name":"deployxa-minimal-test","scripts":{"start":"node server.js"},"version":"1.0.0"}
